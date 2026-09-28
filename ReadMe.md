@@ -20,7 +20,7 @@ University Laboratory Management Server - CSE Team 5 Project
 
 ## Abstract
 
-The University Laboratory Management Server is a C-based client-server application developed on Ubuntu/Linux to manage student requests and laboratory resources. It uses TCP sockets, worker threads, a shared request queue, mutexes, and semaphores to handle multiple requests safely and efficiently. The system manages resources such as computers, program slots, and file slots, while also providing monitoring, activity logging, and controlled shutdown using signals. This project demonstrates practical operating system concepts including threading, synchronization, resource management, and process monitoring.
+The University Laboratory Management Server is a Linux-based C project designed to manage laboratory resources and student requests efficiently. It uses processes, threads, IPC, synchronization, and resource management to handle multiple users and shared laboratory resources. The system demonstrates important Operating System concepts such as process management, communication, scheduling, synchronization, and file management in a practical laboratory environment.
 
 ## Project Structure
 
